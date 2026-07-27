@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -50,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
