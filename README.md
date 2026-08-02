@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Bit Manipulation
