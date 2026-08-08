@@ -16,10 +16,7 @@ public:
             freq--;
         }
      }
-     return ans;
- 
- 
-        
+     return ans;    
 
     }
 };
