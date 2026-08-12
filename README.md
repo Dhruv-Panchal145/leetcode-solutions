@@ -117,10 +117,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
