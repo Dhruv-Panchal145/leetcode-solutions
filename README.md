@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0567-permutation-in-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0567-permutation-in-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0567-permutation-in-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
