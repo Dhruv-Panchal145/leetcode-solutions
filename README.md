@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0443-string-compression](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0443-string-compression](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Queue
