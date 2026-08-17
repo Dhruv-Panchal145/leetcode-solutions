@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
