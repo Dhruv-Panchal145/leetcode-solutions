@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
