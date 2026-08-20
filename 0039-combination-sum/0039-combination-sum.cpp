@@ -1,6 +1,6 @@
 class Solution {
 public:
-    set<vector<int>> s; // used for unique combination
+    set<vector<int>> s; // used for unique combinations
 void getAllCombination(vector<int> &arr,int idx, int tar, vector<vector<int>> &ans, vector<int> &combin){
     if(idx == arr.size() || tar < 0){
         return;
