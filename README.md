@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0169-majority-element](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
@@ -192,5 +196,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
