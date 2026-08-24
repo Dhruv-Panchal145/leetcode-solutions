@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0912-sort-an-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0912-sort-an-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0912-sort-an-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,4 +206,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
