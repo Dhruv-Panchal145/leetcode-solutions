@@ -20,6 +20,6 @@ public:
                 return true; // get cycle
             }
         }
-        return false; // not any cylce
+        return false; // not cylce
     }
 };
