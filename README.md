@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0141-linked-list-cycle](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
