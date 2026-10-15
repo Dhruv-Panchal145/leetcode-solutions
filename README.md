@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -262,4 +264,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
