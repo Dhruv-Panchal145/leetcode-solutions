@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
