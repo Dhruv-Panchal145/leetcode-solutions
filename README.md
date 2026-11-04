@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,8 +291,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0901-online-stock-span](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/dhruv-pancha145/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
